@@ -1,0 +1,13 @@
+{
+    "service": "fojiaotv_v2",
+    "endpoints": [
+        {
+            "name": "apigateway1",
+            "url": "https://fojiaotv.tathagatagarbha.net/api/v2/"
+        },
+        {
+            "name": "apigateway2",
+            "url": "https://www.fojiaotv.net/api/v2/"
+        }
+    ]
+}
