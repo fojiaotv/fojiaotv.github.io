@@ -3,11 +3,11 @@
     "endpoints": [
         {
             "name": "apigateway1",
-            "url": "https://fojiaotv.tathagatagarbha.net/api/v2/"
+            "url": "https://fojiaotv.tathagatagarbha.net/api/v2/referrer/fojiaotv_app/"
         },
         {
             "name": "apigateway2",
-            "url": "https://fojiaotv.tathagatagarbha.net/api/v2/"
+            "url": "https://fojiaotv.tathagatagarbha.net/api/v2/referrer/fojiaotv_app/"
         }
     ]
 }
